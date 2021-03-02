@@ -1,0 +1,13 @@
+D:\Users\User\Documents\tutoria\aaa\bin\Debug\netcoreapp3.1\aaa.exe
+D:\Users\User\Documents\tutoria\aaa\bin\Debug\netcoreapp3.1\aaa.deps.json
+D:\Users\User\Documents\tutoria\aaa\bin\Debug\netcoreapp3.1\aaa.runtimeconfig.json
+D:\Users\User\Documents\tutoria\aaa\bin\Debug\netcoreapp3.1\aaa.runtimeconfig.dev.json
+D:\Users\User\Documents\tutoria\aaa\bin\Debug\netcoreapp3.1\aaa.dll
+D:\Users\User\Documents\tutoria\aaa\bin\Debug\netcoreapp3.1\aaa.pdb
+D:\Users\User\Documents\tutoria\aaa\obj\Debug\netcoreapp3.1\aaa.csprojAssemblyReference.cache
+D:\Users\User\Documents\tutoria\aaa\obj\Debug\netcoreapp3.1\aaa.AssemblyInfoInputs.cache
+D:\Users\User\Documents\tutoria\aaa\obj\Debug\netcoreapp3.1\aaa.AssemblyInfo.cs
+D:\Users\User\Documents\tutoria\aaa\obj\Debug\netcoreapp3.1\aaa.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\tutoria\aaa\obj\Debug\netcoreapp3.1\aaa.dll
+D:\Users\User\Documents\tutoria\aaa\obj\Debug\netcoreapp3.1\aaa.pdb
+D:\Users\User\Documents\tutoria\aaa\obj\Debug\netcoreapp3.1\aaa.genruntimeconfig.cache
